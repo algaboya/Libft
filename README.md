@@ -6,8 +6,8 @@ Libft is a custom C library that reimplements a set of standard C functions, alo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/algaboya/LIbft.git
-cd LIbft
+git clone https://github.com/algaboya/Libft.git
+cd Libft
 make
 ```
 ## 🛠 Make Commands
